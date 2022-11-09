@@ -12,7 +12,7 @@ http:
     user-auth:
       basicAuth:
         users:
-          - "raf:$apr1$MTqfVwiE$FKkzT5ERGFqwH9f3uipxA1"
+          - "admin_cartier:$$apr1$$if2KAPQF$$NvHxfugee0HAi6lehrAmP1"
 
 tls:
   options:
